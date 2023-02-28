@@ -1,3 +1,5 @@
+// This is the main.js file where all the logic related to the server has been done!
+
 const chatForm = document.getElementById('chat-form');
 const chatMessages = document.querySelector('.chat-messages');
 const roomName = document.getElementById('room-name');
