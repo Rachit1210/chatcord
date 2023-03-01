@@ -1,3 +1,5 @@
+// this file contains all the server side logic
+
 const path = require('path');
 const http = require('http');
 const express = require('express');
